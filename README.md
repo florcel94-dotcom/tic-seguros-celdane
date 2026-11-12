@@ -4,7 +4,7 @@ Aplicación web para gestionar una cartera de seguros de accidentes personales. 
 
 🔗 **Demo online:** https://tic-seguros-celdane.vercel.app/
 
-![Dashboard](docs/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Qué hace
 
